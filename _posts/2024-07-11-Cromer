@@ -1,0 +1,24 @@
+---
+title: Group day out to the beach
+author: conrad
+last_modified_at: ""
+tags:
+  - Group social
+---
+<!-- excerpt start -->
+A whole group day trip to the seaside to welcome Eduardo.
+<!-- excerpt end -->
+Train travel, sand castles, competition, fish and chips, pottery.... what's not to love about our team day out! Well, Sathish did destroy our sandcastle, but don't worry there was revenge.
+
+{%
+  include figure.html
+  image="images/group_crop.jpg"
+  caption="Group picture"
+  width="400px"
+%}
+{%
+  include figure.html
+  image="images/rockEIlogo.jpg"
+  caption="EI sandcastle detail"
+  width="400px"
+%}
