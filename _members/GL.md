@@ -3,6 +3,7 @@ name: Georgia Love
 image: images/georgia-love-web-profile.jpg
 role: undergrad
 description: Year in Industry Student
+group: alum
 links:
   linkedin: georgia-love
 ---
