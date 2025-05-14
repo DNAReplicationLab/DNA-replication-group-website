@@ -14,6 +14,12 @@ nav:
 
 The sites of DNA replication initiation, called replication origins, are spatially and temporally regulated. We have mapped the sites and characteristics of replication origins across the genome of several model organisms.
 
+
+{%
+  include citation.html
+  lookup="doi:10.1186/s13059-025-03591-w"
+%}
+
 {%
   include citation.html
   lookup="doi:10.1038/nsmb.2962"
@@ -24,10 +30,6 @@ The sites of DNA replication initiation, called replication origins, are spatial
   lookup="doi:10.1038/nature12650"
 %}
 
-{%
-  include citation.html
-  lookup="doi:10.1101/gr.139477.112"
-%}
 
 {% endcapture %}
 
