@@ -6,6 +6,7 @@
   authors:
   - Jamie T. Carrington
   - Rosemary H C Wilson
+  - Eduardo de La Vega
   - Sathish Thiyagarajan
   - Tom Barker
   - Leah Catchpole
@@ -14,18 +15,12 @@
   - Chris Watkins
   - Karim Gharbi
   - Conrad A. Nieduszynski
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2024-05-01'
   link: https://doi.org/gtsqkp
   orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
-  my_comment: Human DNAscent, 2024
-  image: images/IMG_1871.jpeg
-  tags:
-  - cultured mammalian cells
-  - DNAscent
-  - nanopore
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/yea.3919
   title: <i>Schizosaccharomyces versatilis</i> represents a distinct evolutionary
     lineage of fission yeast
@@ -1183,3 +1178,29 @@
   image: https://images.app.goo.gl/HGD4ktaRioNTGdDF7
   tags:
   - review
+- id: doi:10.1186/s13059-025-03591-w
+  title: Most human DNA replication initiation is dispersed throughout the genome
+    with only a minority within previously identified initiation zones
+  authors:
+  - Jamie T. Carrington
+  - Rosemary H. C. Wilson
+  - Eduardo de La Vega
+  - Sathish Thiyagarajan
+  - Tom Barker
+  - Leah Catchpole
+  - Alex Durrant
+  - Vanda Knitlhoffer
+  - Chris Watkins
+  - Karim Gharbi
+  - Conrad A. Nieduszynski
+  publisher: Genome Biology
+  date: '2025-05-09'
+  link: https://doi.org/g9j53v
+  my_comment: Human DNAscent, 2025
+  image: images/IMG_1871.jpeg
+  tags:
+  - cultured mammalian cells
+  - DNAscent
+  - nanopore
+  plugin: sources.py
+  file: sources.yaml
