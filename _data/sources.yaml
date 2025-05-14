@@ -1,6 +1,5 @@
-- id: doi:10.1101/2024.04.28.591325
-  my_comment: Human DNAscent, 2024
-  publisher: bioRxiv
+- id: doi:10.1186/s13059-025-03591-w
+  my_comment: Human DNAscent, 2025
   image: images/IMG_1871.jpeg
   tags:
    - cultured mammalian cells
