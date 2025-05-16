@@ -1,11 +1,11 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2024.04.28.591325
+- id: doi:10.1186/s13059-025-03591-w
   title: Most human DNA replication initiation is dispersed throughout the genome
     with only a minority within previously identified initiation zones
   authors:
   - Jamie T. Carrington
-  - Rosemary H C Wilson
+  - Rosemary H. C. Wilson
   - Eduardo de La Vega
   - Sathish Thiyagarajan
   - Tom Barker
@@ -15,34 +15,31 @@
   - Chris Watkins
   - Karim Gharbi
   - Conrad A. Nieduszynski
-  publisher: bioRxiv
-  date: '2024-05-01'
-  link: https://doi.org/gtsqkp
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
-  remove: true
-- id: doi:10.1002/yea.3919
-  title: <i>Schizosaccharomyces versatilis</i> represents a distinct evolutionary
-    lineage of fission yeast
-  authors:
-  - Graham J. Etherington
-  - Elisa Gomez Gil
-  - Wilfried Haerty
-  - Snezhana Oliferenko
-  - Conrad A. Nieduszynski
-  publisher: Yeast
-  date: '2023-12-26'
-  link: https://doi.org/gtbdr8
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
-  my_comment: Schizosaccharomyces versatilis, 2023
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg
+  publisher: Genome Biology
+  date: '2025-05-09'
+  link: https://doi.org/g9j53v
+  my_comment: Human DNAscent, 2025
+  description: Discovering where DNA replication initiates in human cells is crucial
+    for understanding how cells copy their genetic information. Our study explores
+    where and how often DNA replication begins across the human genome. To achieve
+    this, we employed a technique using in vivo BrdU incorporation followed by detection
+    by single-molecule nanopore sequencing combined. We tested various BrdU concentrations
+    on cultured human cells, sequenced the resulting DNA, and developed a computational
+    method to identify replication initiation events from the sequencing data. We
+    discovered that a large proportion of DNA replication begins outside known initiation
+    zones, demonstrating a dispersed initiation pattern across the genome. We concluded
+    that while a subset of initiation events occurs in focused zones and is influenced
+    by factors such as transcription, the majority are dispersed and not associated
+    with specific sequence features or epigenetic marks. This understanding refines
+    the current model of how DNA replication is orchestrated within human cells and
+    could inform studies on genome stability and the onset of diseases like cancer.
+  image: images/IMG_1871.jpeg
   tags:
-  - genome assembly
-  - fission yeast
+  - cultured mammalian cells
+  - DNAscent
   - nanopore
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/yea.3912
   title: "Telomere\u2010to\u2010telomere <i>Schizosaccharomyces japonicus</i> genome\
     \ assembly reveals hitherto unknown genome features"
@@ -55,15 +52,34 @@
   publisher: Yeast
   date: '2024-03-01'
   link: https://doi.org/gtk6p3
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: Schizosaccharomyces japonicus, 2024
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
   tags:
   - genome assembly
   - fission yeast
   - nanopore
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/yea.3919
+  title: <i>Schizosaccharomyces versatilis</i> represents a distinct evolutionary
+    lineage of fission yeast
+  authors:
+  - Graham J. Etherington
+  - Elisa Gomez Gil
+  - Wilfried Haerty
+  - Snezhana Oliferenko
+  - Conrad A. Nieduszynski
+  publisher: Yeast
+  date: '2023-12-26'
+  link: https://doi.org/gtbdr8
+  my_comment: Schizosaccharomyces versatilis, 2023
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg
+  tags:
+  - genome assembly
+  - fission yeast
+  - nanopore
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cell.2023.10.015
   title: Design, construction, and functional characterization of a tRNA neochromosome
     in yeast
@@ -106,14 +122,13 @@
   publisher: Cell
   date: '2023-11-01'
   link: https://doi.org/gs6s44
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: Cell, 2023, neoChr paper
   image: https://www.cell.com/cms/attachment/431d7796-8b2c-404d-b54a-e1ea57864d8b/fx1.jpg
   tags:
   - budding yeast
   - synthetic biology
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/mbio.01777-22
   title: "Systematic Analysis of Copy Number Variations in the Pathogenic Yeast Candida\
     \ parapsilosis Identifies a Gene Amplification in\n            <i>RTA3</i>\n \
@@ -134,33 +149,10 @@
   publisher: mBio
   date: '2022-10-26'
   link: https://doi.org/gs6s45
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: paper with Wolfe & Butler on Candida parapsilosis, 2022
   image: https://journals.asm.org/cms/10.1128/mbio.01777-22/asset/5ff8ad2e-f350-4ebb-9812-3d3e1ff24e5a/assets/images/medium/mbio.01777-22-f003.gif
-- id: doi:10.1101/2021.12.16.473093
-  title: Resistance to miltefosine results from amplification of the <i>RTA3</i> floppase
-    or inactivation of flippases in <i>Candida parapsilosis</i>
-  authors:
-  - Sean A. Bergin
-  - Fang Zhao
-  - Adam P. Ryan
-  - "Carolin A. M\xFCller"
-  - Conrad A. Nieduszynski
-  - Bing Zhai
-  - Thierry Rolling
-  - Tobias M. Hohl
-  - Florent Morio
-  - Jillian Scully
-  - Kenneth H. Wolfe
-  - Geraldine Butler
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-12-17'
-  link: https://doi.org/g9j8c5
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1103/PhysRevE.103.052410
   title: Effectiveness of glass beads for plating cell cultures
   authors:
@@ -171,13 +163,12 @@
   publisher: Physical Review E
   date: '2021-05-17'
   link: https://doi.org/gj3ng5
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comments: PRE paper with RR, 2021
   image: https://journals.aps.org/pre/article/10.1103/PhysRevE.103.052410/figures/1/medium
   tags:
   - mathematical modelling
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jbc.2021.100533
   title: Tos4 mediates gene expression homeostasis through interaction with HDAC complexes
     independently of H3K56 acetylation
@@ -191,13 +182,12 @@
   publisher: Journal of Biological Chemistry
   date: '2021-01-01'
   link: https://doi.org/gqsr96
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: JBC paper with Rob, 2021
   image: https://www.jbc.org/cms/attachment/86f83300-193f-491f-b677-0de2f5c21c2f/gr1.jpg
   tags:
   - budding yeast
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2004664117
   title: Sir2 mitigates an intrinsic imbalance in origin licensing efficiency between
     early- and late-replicating euchromatin
@@ -210,14 +200,29 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2020-06-08'
   link: https://doi.org/gs6s46
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: PNAS paper with CAF, 2020
   description: This work is [H1 recommended](https://connect.h1.co/pubmed/32513739).
   image: https://www.pnas.org/cms/10.1073/pnas.2004664117/asset/fdb82a8b-cb06-4c3a-a9aa-d0395f97257f/assets/graphic/pnas.2004664117fig01.jpeg
   tags:
   - budding yeast
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1007651
+  title: 'The Beacon Calculus: A formal method for the flexible and concise modelling
+    of biological systems'
+  authors:
+  - Michael A. Boemo
+  - Luca Cardelli
+  - Conrad A. Nieduszynski
+  publisher: PLOS Computational Biology
+  date: '2020-03-09'
+  link: https://doi.org/ggpcxz
+  my_comment: Beacon calculus paper, 2020
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1007651.g001
+  tags:
+  - mathematical modelling
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41596-019-0287-7
   title: 'DNA copy-number measurement of genome replication dynamics by high-throughput
     sequencing: the sort-seq, sync-seq and MFA-seq family'
@@ -229,9 +234,6 @@
   publisher: Nature Protocols
   date: '2020-02-12'
   link: https://doi.org/gs6s47
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: protocol paper, 2020
   description: During S phase, the relative DNA copy number increases for each region
     as it is replicated. Therefore, measuring DNA copy number can be used as a proxy
@@ -244,23 +246,8 @@
   tags:
   - new method
   - budding yeast
-- id: doi:10.1371/journal.pcbi.1007651
-  title: 'The Beacon Calculus: A formal method for the flexible and concise modelling
-    of biological systems'
-  authors:
-  - Michael A. Boemo
-  - Luca Cardelli
-  - Conrad A. Nieduszynski
-  publisher: PLOS Computational Biology
-  date: '2020-03-09'
-  link: https://doi.org/ggpcxz
-  orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
-  my_comment: Beacon calculus paper, 2020
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1007651.g001
-  tags:
-  - mathematical modelling
 - id: doi:10.1186/s13059-019-1719-y
   title: "Genome-wide analysis of DNA replication timing in single cells: Yes! We\u2019\
     re all individuals"
@@ -270,13 +257,12 @@
   publisher: Genome Biology
   date: '2019-05-30'
   link: https://doi.org/gs6s48
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: single cell review, 2019
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-019-1719-y/MediaObjects/13059_2019_1719_Fig1_HTML.png
   tags:
   - review
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-019-09824-4
   title: Interspecies conservation of organisation and function between nonhomologous
     regional centromeres
@@ -294,9 +280,6 @@
   publisher: Nature Communications
   date: '2019-05-28'
   link: https://doi.org/gs6s49
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: fission yeast centromeres with Robin, 2019
   description: This work is [H1 recommended](https://connect.h1.co/pubmed/31138803).
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-019-09824-4/MediaObjects/41467_2019_9824_Fig1_HTML.png
@@ -304,6 +287,8 @@
   - genome assembly
   - fission yeast
   - nanopore
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41592-019-0394-y
   title: Capturing the dynamics of genome replication on individual ultra-long nanopore
     sequence reads
@@ -318,9 +303,6 @@
   publisher: Nature Methods
   date: '2019-04-22'
   link: https://doi.org/gfzr9j
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: Nat Methods DNAscent paper, 2019
   description: "DNA replication initiation is stochastic and obscured in population\
     \ datasets. In this paper we introduce D-NAscent, a method to detect base analogs\
@@ -336,20 +318,8 @@
   - nanopore
   - DNAscent
   - budding yeast
-- id: doi:10.1093/nar/gkz094
-  title: Bayesian inference of origin firing time distributions, origin interference
-    and licencing probabilities from Next Generation Sequencing data
-  authors:
-  - Alina Bazarova
-  - Conrad A Nieduszynski
-  - Ildem Akerman
-  - Nigel J Burroughs
-  publisher: Nucleic Acids Research
-  date: '2019-02-14'
-  link: https://doi.org/g9j8c6
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/genes10030196
   title: Cohesin-Mediated Genome Architecture Does Not Define DNA Replication Timing
     Domains
@@ -359,9 +329,6 @@
   publisher: Genes
   date: '2019-03-04'
   link: https://doi.org/gptjf7
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: cohesion paper, 2019
   description: In this study we address the long-standing question - do topologically
     associating domains (TADs) act as a causative organizing structure for replication
@@ -371,6 +338,8 @@
   image: https://www.mdpi.com/genes/genes-10-00196/article_deploy/html/images/genes-10-00196-g003.png
   tags:
   - cultured mammalian cells
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/nar/gky590
   title: Rapid high-resolution measurement of DNA replication timing by droplet digital
     PCR
@@ -381,9 +350,6 @@
   publisher: Nucleic Acids Research
   date: '2018-07-09'
   link: https://doi.org/gsxcqc
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: ddPCR method paper, 2018
   description: "In this paper we describe the use of digital PCR to precisely and\
     \ rapidly measure DNA copy number as a proxy for replication time. As a proof-of-principle\
@@ -398,6 +364,8 @@
   - new method
   - budding yeast
   - cultured mammalian cells
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/msy075
   title: 'Evolution of Genome Architecture in Archaea: Spontaneous Generation of a
     New Chromosome in Haloferax volcanii'
@@ -414,13 +382,25 @@
   publisher: Molecular Biology and Evolution
   date: '2018-04-16'
   link: https://doi.org/gdckvp
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: Dasha's Hv paper, 2018
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/35/8/10.1093_molbev_msy075/1/m_msy075f1.jpeg?Expires=1704203197&Signature=i~VOUVUABJZf9DpsMU2Fzj3uD-9bibQ1qmBlnyB9rRhnG3xCLYH99NYkBmCxQikCJQVM~HppBw102hf5lJftUOV9HeMa5NCKCUN5zM8YUQHENanAKajNHsDmup054dzzWYyjJuPT1m3E7nGgQ3ujRLew-6IKlvr-xnG1hzboZUyERY2boVLAlzmAZEcv~jhS4w4ZE9s9~AKiE6RWNnPcLhqSI7rTFqmimex-U988JKo6j9y-3-jRNXKRT6DpO95lHFVnhTicgJxF1MTzpcHVoLn59mzojTOxsdg79eQW-ebN2hgjNTJIOHuSN-r9gs0VOFrhyDyQgLwetyrVRiP4JQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - archaea
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.12688/wellcomeopenres.13884.1
+  title: Investigating the role of Rts1 in DNA replication initiation
+  authors:
+  - Ana B.A. Wallis
+  - Conrad A. Nieduszynski
+  publisher: Wellcome Open Research
+  date: '2018-03-06'
+  link: https://doi.org/gdhd9m
+  my_comment: Ana's RTS1 paper, 2018
+  tags:
+  - budding yeast
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/nar/gky132
   title: Rif1 acts through Protein Phosphatase 1 but independent of replication timing
     to suppress telomere extension in budding yeast
@@ -435,40 +415,12 @@
   publisher: Nucleic Acids Research
   date: '2018-02-26'
   link: https://doi.org/gdk5xg
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: RIF1 with Anne, 2018
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/46/8/10.1093_nar_gky132/1/m_gky132fig5.jpeg?Expires=1703041140&Signature=gW5IWf0r3K42Er-f~LR9Q28TQl6~vYEUsWZQ0f2wyAfSERV7H8oZmBm1yG~eWv2Ep-lihe6FP6KIASIaciyI99n6IPKM-MdfN7NpYESzxK6Kp9UV8rMUxBj2gPvQzmFz3Eo9UD9HOcSwhSidds5HhmOPZSB2V4uFZ8N5Rp5lvUd9a2Rnzoq1iFCssMFGdH4ybDK6Ma18B68YmYUj9CLu4l99zyV04m~JvlCYL2JqdCrIPaU67Cvc6P9oPk4Zwy7-jdH-bCLvsx9XF0d0Xy4tOYieW7eNBME3u-Ooyn9jcoEA0OYSDbCjynQr20pJLWJaiesU6OixLItwQYDbhTaQGg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - budding yeast
-- id: doi:10.12688/wellcomeopenres.13884.1
-  title: Investigating the role of Rts1 in DNA replication initiation
-  authors:
-  - Ana B.A. Wallis
-  - Conrad A. Nieduszynski
-  publisher: Wellcome Open Research
-  date: '2018-03-06'
-  link: https://doi.org/gdhd9m
-  orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
-  my_comment: Ana's RTS1 paper, 2018
-  tags:
-  - budding yeast
-- id: doi:10.1101/241752
-  title: The effectiveness of glass beads for plating cell cultures
-  authors:
-  - Alidivinas Prusokas
-  - Michelle Hawkins
-  - Conrad A. Nieduszynski
-  - Renata Retkute
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-01-01'
-  link: https://doi.org/gkwnfp
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1083/jcb.201701061
   title: DNA replication timing influences gene expression level
   authors:
@@ -477,9 +429,6 @@
   publisher: Journal of Cell Biology
   date: '2017-05-24'
   link: https://doi.org/gbmkbc
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: CAM histone paper, 2017
   image: images/Histone_replication_graphical_abstract.png
   description: "Chromosomes replicate in a characteristic and reproducible temporal\
@@ -496,6 +445,8 @@
   tags:
   - budding yeast
   - comparative genomics
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/science.aaf4791
   title: Deep functional analysis of synII, a 770-kilobase synthetic yeast chromosome
   authors:
@@ -542,14 +493,13 @@
   publisher: Science
   date: '2017-03-10'
   link: https://doi.org/gbgf5j
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: synII, 2017
   image: images/Sc2.0_logo.png
   tags:
   - budding yeast
   - synthetic biology
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-319-24696-3_6
   title: Global and Local Regulation of Replication Origin Activity
   authors:
@@ -557,12 +507,32 @@
   publisher: The Initiation of DNA Replication in Eukaryotes
   date: '2016-01-01'
   link: https://doi.org/gs7p4r
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comments: 2016 review
   tags:
   - review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cub.2015.06.023
+  title: Discovery of an Unconventional Centromere in Budding Yeast Redefines Evolution
+    of Point Centromeres
+  authors:
+  - Norihiko Kobayashi
+  - Yutaka Suzuki
+  - "Lori\_W. Schoenfeld"
+  - "Carolin\_A. M\xFCller"
+  - Conrad Nieduszynski
+  - "Kenneth\_H. Wolfe"
+  - "Tomoyuki\_U. Tanaka"
+  publisher: Current Biology
+  date: '2015-08-01'
+  link: https://doi.org/f7mk2f
+  my_comment: CEN with Tomo & Ken, 2015
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/26166782).
+  tags:
+  - comparative genomics
+  - budding yeast
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/nsmb.2962
   title: A global profile of replicative polymerase usage
   authors:
@@ -578,9 +548,6 @@
   publisher: Nature Structural &amp; Molecular Biology
   date: '2015-02-09'
   link: https://doi.org/f64pz6
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: Pu-seq paper with Tony, 2015
   description: This collaborative study reveals that polymerase epsilon is responsible
     for leading strand synthesis, with polymerase delta undertaking lagging strand
@@ -593,37 +560,8 @@
   tags:
   - fission yeast
   - new method
-- id: doi:10.1016/j.cub.2015.06.023
-  title: Discovery of an Unconventional Centromere in Budding Yeast Redefines Evolution
-    of Point Centromeres
-  authors:
-  - Norihiko Kobayashi
-  - Yutaka Suzuki
-  - "Lori\_W. Schoenfeld"
-  - "Carolin\_A. M\xFCller"
-  - Conrad Nieduszynski
-  - "Kenneth\_H. Wolfe"
-  - "Tomoyuki\_U. Tanaka"
-  publisher: Current Biology
-  date: '2015-08-01'
-  link: https://doi.org/f7mk2f
-  orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
-  my_comment: CEN with Tomo & Ken, 2015
-  description: This work is [H1 recommended](https://connect.h1.co/pubmed/26166782).
-  tags:
-  - comparative genomics
-  - budding yeast
-- id: doi:10.1201/b16586
-  title: Investigations in Yeast Functional Genomics and Molecular Biology
-  authors: []
-  publisher: Apple Academic Press
-  date: '2014-02-24'
-  link: https://doi.org/gs7p4s
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/nar/gkt878
   title: The dynamics of genome replication using deep sequencing
   authors:
@@ -641,9 +579,6 @@
   publisher: Nucleic Acids Research
   date: '2013-10-01'
   link: https://doi.org/f952qb
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: NAR HTS methods paper, 2013
   description: This paper describes and rigorously validates a range of next generation
     sequencing approaches to reveal at unprecedented resolution the temporal order
@@ -653,6 +588,124 @@
   tags:
   - new method
   - budding yeast
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.celrep.2013.10.014
+  title: High-Resolution Replication Profiles Define the Stochastic Nature of Genome
+    Replication Initiation and Termination
+  authors:
+  - Michelle Hawkins
+  - Renata Retkute
+  - "Carolin\_A. M\xFCller"
+  - Nazan Saner
+  - "Tomoyuki\_U. Tanaka"
+  - "Alessandro\_P.S. de\_Moura"
+  - "Conrad\_A. Nieduszynski"
+  publisher: Cell Reports
+  date: '2013-11-01'
+  link: https://doi.org/gs6s5b
+  my_comment: MH and RR modelling paper, 2013
+  description: In this study we used a combination of high-resolution, genomic-wide
+    DNA replication data, mathematical modelling and single cell experiments to reveal
+    the stochastic nature of replication initiation and termination. We find that
+    the homogeneous picture implied by ensemble datasets masks biologically significant
+    cell-to-cell variation in genome replication.
+  image: images/24210825.jpg
+  tags:
+  - mathematical modelling
+  - budding yeast
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gkt728
+  title: Replisome stall events have shaped the distribution of replication origins
+    in the genomes of yeasts
+  authors:
+  - Timothy J. Newman
+  - Mohammed A. Mamun
+  - Conrad A. Nieduszynski
+  - J. Julian Blow
+  publisher: Nucleic Acids Research
+  date: '2013-08-19'
+  link: https://doi.org/f5hv8s
+  my_comment: ori distribution with JJB, 2013
+  image: images/blow&newman.png
+  tags:
+  - mathematical modelling
+  - budding yeast
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.molcel.2013.05.011
+  title: Kinetochores Coordinate Pericentromeric Cohesion and Early DNA Replication
+    by Cdc7-Dbf4 Kinase Recruitment
+  authors:
+  - Toyoaki Natsume
+  - "Carolin\_A. M\xFCller"
+  - Yuki Katou
+  - Renata Retkute
+  - "Marek Gierli\u0144ski"
+  - Hiroyuki Araki
+  - "J.\_Julian Blow"
+  - Katsuhiko Shirahige
+  - "Conrad\_A. Nieduszynski"
+  - "Tomoyuki\_U. Tanaka"
+  publisher: Molecular Cell
+  date: '2013-06-01'
+  link: https://doi.org/f43jkq
+  my_comment: Mol Cell, 2013, CEN replication timing paper
+  description: We discovered that kinetochore recruitment of the Dbf4-dependent kinase
+    ensures early centromere replication. Mutations that delay centromere replication
+    give rise to elevated chromosome loss, revealing the first physiological role
+    for temporal regulation of genome replication.<br>This work is [H1 recommended](https://connect.h1.co/pubmed/23746350).
+  image: https://www.cell.com/cms/attachment/142c9086-4235-4f40-9132-2b468b17f63f/fx1_lrg.jpg
+  tags:
+  - budding yeast
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature12650
+  title: Accelerated growth in the absence of DNA replication origins
+  authors:
+  - Michelle Hawkins
+  - Sunir Malla
+  - Martin J. Blythe
+  - Conrad A. Nieduszynski
+  - Thorsten Allers
+  publisher: Nature
+  date: '2013-11-01'
+  link: https://doi.org/f5hv8z
+  my_comment: H. volcanii nature paper, 2013
+  description: We discovered that the halophilic archaea, Haloferax volcanii, not
+    only can survive in the absence of DNA replication origins, but also has accelerated
+    growth.<br>This work is [H1 recommended](https://connect.h1.co/pubmed/24185008)
+    and featured in a [research highlight](https://www.nature.com/articles/nrmicro3177)
+    in Nature Reviews Microbiology.<br>See associated article at [The Conversation](https://theconversation.com/selfish-gene-solves-dna-replication-puzzle-20166).
+  image: images/Hv_replication.png
+  tags:
+  - archaea
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1083/jcb.201306143
+  title: Stochastic association of neighboring replicons creates replication factories
+    in budding yeast
+  authors:
+  - Nazan Saner
+  - Jens Karschau
+  - Toyoaki Natsume
+  - "Marek Gierli\u0144ski"
+  - Renata Retkute
+  - Michelle Hawkins
+  - Conrad A. Nieduszynski
+  - J. Julian Blow
+  - Alessandro P.S. de Moura
+  - Tomoyuki U. Tanaka
+  publisher: Journal of Cell Biology
+  date: '2013-09-23'
+  link: https://doi.org/f5bx99
+  my_comment: TT paper replicon clusters, 2013
+  tags:
+  - budding yeast
+  - mathematical modelling
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pgen.1003798
   title: A Link between ORC-Origin Binding Mechanisms and Origin Activation Time Revealed
     in Budding Yeast
@@ -665,36 +718,12 @@
   publisher: PLoS Genetics
   date: '2013-09-12'
   link: https://doi.org/gbdt72
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: CAF ORC binding, 2013
   image: https://journals.plos.org/plosgenetics/article/figure/image?download&size=large&id=10.1371/journal.pgen.1003798.g001
   tags:
   - budding yeast
-- id: doi:10.1038/nature12650
-  title: Accelerated growth in the absence of DNA replication origins
-  authors:
-  - Michelle Hawkins
-  - Sunir Malla
-  - Martin J. Blythe
-  - Conrad A. Nieduszynski
-  - Thorsten Allers
-  publisher: Nature
-  date: '2013-11-01'
-  link: https://doi.org/f5hv8z
-  orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
-  my_comment: H. volcanii nature paper, 2013
-  description: We discovered that the halophilic archaea, Haloferax volcanii, not
-    only can survive in the absence of DNA replication origins, but also has accelerated
-    growth.<br>This work is [H1 recommended](https://connect.h1.co/pubmed/24185008)
-    and featured in a [research highlight](https://www.nature.com/articles/nrmicro3177)
-    in Nature Reviews Microbiology.<br>See associated article at [The Conversation](https://theconversation.com/selfish-gene-solves-dna-replication-puzzle-20166).
-  image: images/Hv_replication.png
-  tags:
-  - archaea
 - id: doi:10.1038/nature12312
   title: Avoiding chromosome pathology when replication forks collide
   authors:
@@ -706,12 +735,11 @@
   publisher: Nature
   date: '2013-07-28'
   link: https://doi.org/f49wkg
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: RL E. coli, 2013
   tags:
   - E. coli
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/1471-2164-14-69
   title: High quality de novo sequencing and assembly of the Saccharomyces arboricolus
     genome
@@ -734,156 +762,12 @@
   publisher: BMC Genomics
   date: '2013-01-01'
   link: https://doi.org/vgv
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: Sa assembly, 2013
   tags:
   - budding yeast
   - genome assembly
-- id: doi:10.1016/j.celrep.2013.10.014
-  title: High-Resolution Replication Profiles Define the Stochastic Nature of Genome
-    Replication Initiation and Termination
-  authors:
-  - Michelle Hawkins
-  - Renata Retkute
-  - "Carolin\_A. M\xFCller"
-  - Nazan Saner
-  - "Tomoyuki\_U. Tanaka"
-  - "Alessandro\_P.S. de\_Moura"
-  - "Conrad\_A. Nieduszynski"
-  publisher: Cell Reports
-  date: '2013-11-01'
-  link: https://doi.org/gs6s5b
-  orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
-  my_comment: MH and RR modelling paper, 2013
-  description: In this study we used a combination of high-resolution, genomic-wide
-    DNA replication data, mathematical modelling and single cell experiments to reveal
-    the stochastic nature of replication initiation and termination. We find that
-    the homogeneous picture implied by ensemble datasets masks biologically significant
-    cell-to-cell variation in genome replication.
-  image: images/24210825.jpg
-  tags:
-  - mathematical modelling
-  - budding yeast
-- id: doi:10.1016/j.molcel.2013.05.011
-  title: Kinetochores Coordinate Pericentromeric Cohesion and Early DNA Replication
-    by Cdc7-Dbf4 Kinase Recruitment
-  authors:
-  - Toyoaki Natsume
-  - "Carolin\_A. M\xFCller"
-  - Yuki Katou
-  - Renata Retkute
-  - "Marek Gierli\u0144ski"
-  - Hiroyuki Araki
-  - "J.\_Julian Blow"
-  - Katsuhiko Shirahige
-  - "Conrad\_A. Nieduszynski"
-  - "Tomoyuki\_U. Tanaka"
-  publisher: Molecular Cell
-  date: '2013-06-01'
-  link: https://doi.org/f43jkq
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
-  my_comment: Mol Cell, 2013, CEN replication timing paper
-  description: We discovered that kinetochore recruitment of the Dbf4-dependent kinase
-    ensures early centromere replication. Mutations that delay centromere replication
-    give rise to elevated chromosome loss, revealing the first physiological role
-    for temporal regulation of genome replication.<br>This work is [H1 recommended](https://connect.h1.co/pubmed/23746350).
-  image: https://www.cell.com/cms/attachment/142c9086-4235-4f40-9132-2b468b17f63f/fx1_lrg.jpg
-  tags:
-  - budding yeast
-- id: doi:10.1093/nar/gkt728
-  title: Replisome stall events have shaped the distribution of replication origins
-    in the genomes of yeasts
-  authors:
-  - Timothy J. Newman
-  - Mohammed A. Mamun
-  - Conrad A. Nieduszynski
-  - J. Julian Blow
-  publisher: Nucleic Acids Research
-  date: '2013-08-19'
-  link: https://doi.org/f5hv8s
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
-  my_comment: ori distribution with JJB, 2013
-  image: images/blow&newman.png
-  tags:
-  - mathematical modelling
-  - budding yeast
-- id: doi:10.1083/jcb.201306143
-  title: Stochastic association of neighboring replicons creates replication factories
-    in budding yeast
-  authors:
-  - Nazan Saner
-  - Jens Karschau
-  - Toyoaki Natsume
-  - "Marek Gierli\u0144ski"
-  - Renata Retkute
-  - Michelle Hawkins
-  - Conrad A. Nieduszynski
-  - J. Julian Blow
-  - Alessandro P.S. de Moura
-  - Tomoyuki U. Tanaka
-  publisher: Journal of Cell Biology
-  date: '2013-09-23'
-  link: https://doi.org/f5bx99
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
-  my_comment: TT paper replicon clusters, 2013
-  tags:
-  - budding yeast
-  - mathematical modelling
-- id: doi:10.1371/journal.ppat.1002554
-  title: A Putative Homologue of CDC20/CDH1 in the Malaria Parasite Is Essential for
-    Male Gamete Development
-  authors:
-  - David S. Guttery
-  - David J. P. Ferguson
-  - Benoit Poulin
-  - Zhengyao Xu
-  - Ursula Straschil
-  - Onny Klop
-  - Lev Solyakov
-  - Sara M. Sandrini
-  - Declan Brady
-  - Conrad A. Nieduszynski
-  - Chris J. Janse
-  - Anthony A. Holder
-  - Andrew B. Tobin
-  - Rita Tewari
-  publisher: PLoS Pathogens
-  date: '2012-02-23'
-  link: https://doi.org/gs6s5c
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/gr.139477.112
-  title: Conservation of replication timing reveals global and local regulation of
-    replication origin activity
-  authors:
-  - "Carolin A. M\xFCller"
-  - Conrad A. Nieduszynski
-  publisher: Genome Research
-  date: '2012-07-05'
-  link: https://doi.org/f38p9d
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
-  my_comment: CAM sensu stricto, 2012
-  description: We found that the temporal order of genome replication is conserved
-    between species. The discovery of a minority of DNA replication origins that have
-    evolved different activities allowed us to demonstrate that origin activity is
-    locally (cis) regulated.
-  image: "images/M\xFCller_Fig_3_panel.png"
-  tags:
-  - comparative genomics
-  - budding yeast
 - id: doi:10.1103/PhysRevE.86.031916
   title: Mathematical modeling of genome replication
   authors:
@@ -893,13 +777,32 @@
   publisher: Physical Review E
   date: '2012-09-17'
   link: https://doi.org/gs6s5d
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: PRE paper, 2012
   image: images/23030953.jpg
   tags:
   - mathematical modelling
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/gr.139477.112
+  title: Conservation of replication timing reveals global and local regulation of
+    replication origin activity
+  authors:
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  publisher: Genome Research
+  date: '2012-07-05'
+  link: https://doi.org/f38p9d
+  my_comment: CAM sensu stricto, 2012
+  description: We found that the temporal order of genome replication is conserved
+    between species. The discovery of a minority of DNA replication origins that have
+    evolved different activities allowed us to demonstrate that origin activity is
+    locally (cis) regulated.
+  image: "images/M\xFCller_Fig_3_panel.png"
+  tags:
+  - comparative genomics
+  - budding yeast
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/nar/gkr1091
   title: OriDB, the DNA replication origin database updated and extended
   authors:
@@ -910,11 +813,10 @@
   publisher: Nucleic Acids Research
   date: '2011-11-24'
   link: https://doi.org/b6pqkk
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: OriDB update paper, 2011
   image: images/oridb_logo.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/science.1203357
   title: Comparative Functional Genomics of the Fission Yeasts
   authors:
@@ -981,14 +883,13 @@
   publisher: Science
   date: '2011-05-20'
   link: https://doi.org/d3nbzz
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: fission yeast compariative genomics, 2011
   description: This work is [H1 recommended](https://connect.h1.co/pubmed/21511999).
   tags:
   - comparative genomics
   - fission yeast
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1103/PhysRevLett.107.068103
   title: Dynamics of DNA Replication in Yeast
   authors:
@@ -998,24 +899,12 @@
   publisher: Physical Review Letters
   date: '2011-08-04'
   link: https://doi.org/cjq9nh
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: PRL paper with AM, 2011
   description: This work is [H1 recommended](https://connect.h1.co/pubmed/21902372).
   tags:
   - mathematical modelling
-- id: doi:10.1016/j.bbagen.2011.02.004
-  title: 'From sequence to function: Insights from natural variation in budding yeasts'
-  authors:
-  - Conrad A. Nieduszynski
-  - Gianni Liti
-  publisher: Biochimica et Biophysica Acta (BBA) - General Subjects
-  date: '2011-10-01'
-  link: https://doi.org/fj7gwj
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/nar/gkq343
   title: Mathematical modelling of whole chromosome replication
   authors:
@@ -1026,9 +915,6 @@
   publisher: Nucleic Acids Research
   date: '2010-05-10'
   link: https://doi.org/dvsn5k
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: NAR modelling paper, 2010
   description: We present a mathematical model for whole chromosome replication, conceptualising
     how key molecular properties of DNA replication are related and demonstrating
@@ -1036,42 +922,8 @@
     work is [H1 recommended](https://connect.h1.co/pubmed/20457753).
   tags:
   - mathematical modelling
-- id: doi:10.1007/978-1-60327-815-7_16
-  title: Detection of Replication Origins Using Comparative Genomics and Recombinational
-    ARS Assay
-  authors:
-  - Conrad A. Nieduszynski
-  - Anne D. Donaldson
-  publisher: Methods in Molecular Biology
-  date: '2009-01-01'
-  link: https://doi.org/dndspn
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pgen.1000755
-  title: The Origin Recognition Complex Interacts with a Subset of Metabolic Genes
-    Tightly Linked to Origins of Replication
-  authors:
-  - Erika Shor
-  - Christopher L. Warren
-  - Joshua Tietjen
-  - Zhonggang Hou
-  - "Ulrika M\xFCller"
-  - Ilaria Alborelli
-  - Florence H. Gohard
-  - Adrian I. Yemm
-  - Lev Borisov
-  - James R. Broach
-  - Michael Weinreich
-  - Conrad A. Nieduszynski
-  - Aseem Z. Ansari
-  - Catherine A. Fox
-  publisher: PLoS Genetics
-  date: '2009-12-04'
-  link: https://doi.org/dg468x
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/MCB.00206-08
   title: Analysis of Chromosome III Replicators Reveals an Unusual Structure for the
     <i>ARS318</i> Silencer Origin and a Conserved WTW Sequence within the Origin Recognition
@@ -1086,13 +938,12 @@
   publisher: Molecular and Cellular Biology
   date: '2008-08-01'
   link: https://doi.org/dm5wkt
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: ARS318 paper
   description: This work is [H1 recommended](https://connect.h1.co/pubmed/18573888).
   tags:
   - budding yeast
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/nar/gkl758
   title: 'OriDB: a DNA replication origin database'
   authors:
@@ -1104,9 +955,6 @@
   publisher: Nucleic Acids Research
   date: '2006-11-07'
   link: https://doi.org/bgc2rn
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: original OriDB paper
   image: images/oridb_logo.png
   description: "This paper presents the DNA replication origin database, OriDB, a\
@@ -1114,6 +962,8 @@
     \ is an example of our commitment not only to sharing data, but also to making\
     \ it highly accessible to the research community \u2013 see links on the resources\
     \ page."
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/gad.385306
   title: Genome-wide identification of replication origins in yeast by comparative
     genomics
@@ -1124,9 +974,6 @@
   publisher: Genes &amp; Development
   date: '2006-07-15'
   link: https://doi.org/d2drfn
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: G&D comparative genomics, 2006
   description: This was the first paper to use comparative genomics to investigate
     DNA replication. We discovered that the functional sequence elements at DNA replication
@@ -1137,75 +984,8 @@
   - comparative genomics
   - budding yeast
   - new method
-- id: doi:10.1093/nar/gki539
-  title: The requirement of yeast replication origins for pre-replication complex
-    proteins is modulated by transcription
-  authors:
-  - C. A. Nieduszynski
-  publisher: Nucleic Acids Research
-  date: '2005-04-28'
-  link: https://doi.org/dvthz2
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1530/rep.1.00131
-  title: Cyclin A1 protein shows haplo-insufficiency for normal fertility in male
-    mice
-  authors:
-  - Tiffany van der Meer
-  - W-Y Iris Chan
-  - Luis S Palazon
-  - Conrad Nieduszynski
-  - Martin Murphy
-  - "Joelle Sobczak-The\u0301pot"
-  - Mark Carrington
-  - William H Colledge
-  publisher: Reproduction
-  date: '2004-04-01'
-  link: https://doi.org/dwcdxb
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1128/MCB.24.20.8917-8928.2004
-  title: The Cyclin A1-CDK2 Complex Regulates DNA Double-Strand Break Repair
-  authors:
-  - "Carsten M\xFCller-Tidow"
-  - Ping Ji
-  - Sven Diederichs
-  - Jenny Potratz
-  - "Nicole B\xE4umer"
-  - "Gabriele K\xF6hler"
-  - Thomas Cauvet
-  - Chunaram Choudary
-  - Tiffany van der Meer
-  - Wan-Yu Iris Chan
-  - Conrad Nieduszynski
-  - William H. Colledge
-  - Mark Carrington
-  - H. Phillip Koeffler
-  - Anja Restle
-  - "Lisa Wiesm\xFCller"
-  - "Jo\xEBlle Sobczak-Th\xE9pot"
-  - Wolfgang E. Berdel
-  - Hubert Serve
-  publisher: Molecular and Cellular Biology
-  date: '2004-10-01'
-  link: https://doi.org/d4ncdp
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/gad.231602
-  title: Ku complex controls the replication time of DNA in telomere regions
-  authors:
-  - Andrew J. Cosgrove
-  - Conrad A. Nieduszynski
-  - Anne D. Donaldson
-  publisher: Genes &amp; Development
-  date: '2002-10-01'
-  link: https://doi.org/cs66gx
-  orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/gb-2002-3-12-research0070
   title: Whole-genome analysis of animal A- and B-type cyclins
   authors:
@@ -1215,12 +995,11 @@
   publisher: Genome Biology
   date: '2002-11-15'
   link: https://doi.org/bfr8ks
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: Genome Biology PhD paper, 2002
   tags:
   - comparative genomics
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/gb-2001-2-12-reports4030
   title: 'Chromosome replication: from ORC to fork'
   authors:
@@ -1230,19 +1009,18 @@
   publisher: Genome Biology
   date: ''
   link: https://doi.org/dd6b2c
-  orcid: 0000-0003-2001-076X
-  plugin: sources.py
-  file: sources.yaml
   my_comment: Genome Biology meeting report, 2001
   image: https://images.app.goo.gl/HGD4ktaRioNTGdDF7
   tags:
   - review
-- id: doi:10.1186/s13059-025-03591-w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.04.28.591325
   title: Most human DNA replication initiation is dispersed throughout the genome
     with only a minority within previously identified initiation zones
   authors:
   - Jamie T. Carrington
-  - Rosemary H. C. Wilson
+  - Rosemary H C Wilson
   - Eduardo de La Vega
   - Sathish Thiyagarajan
   - Tom Barker
@@ -1252,28 +1030,9 @@
   - Chris Watkins
   - Karim Gharbi
   - Conrad A. Nieduszynski
-  publisher: Genome Biology
-  date: '2025-05-09'
-  link: https://doi.org/g9j53v
-  my_comment: Human DNAscent, 2025
-  description: Discovering where DNA replication initiates in human cells is crucial
-    for understanding how cells copy their genetic information. Our study explores
-    where and how often DNA replication begins across the human genome. To achieve
-    this, we employed a technique using in vivo BrdU incorporation followed by detection
-    by single-molecule nanopore sequencing combined. We tested various BrdU concentrations
-    on cultured human cells, sequenced the resulting DNA, and developed a computational
-    method to identify replication initiation events from the sequencing data. We
-    discovered that a large proportion of DNA replication begins outside known initiation
-    zones, demonstrating a dispersed initiation pattern across the genome. We concluded
-    that while a subset of initiation events occurs in focused zones and is influenced
-    by factors such as transcription, the majority are dispersed and not associated
-    with specific sequence features or epigenetic marks. This understanding refines
-    the current model of how DNA replication is orchestrated within human cells and
-    could inform studies on genome stability and the onset of diseases like cancer.
-  image: images/IMG_1871.jpeg
-  tags:
-  - cultured mammalian cells
-  - DNAscent
-  - nanopore
+  publisher: bioRxiv
+  date: '2024-05-01'
+  link: https://doi.org/gtsqkp
+  remove: true
   plugin: sources.py
   file: sources.yaml
