@@ -23,3 +23,5 @@ The easiest way to get in touch is to e-mail Conrad:
   text="conrad.nieduszynski@earhlam.ac.uk"
   link="conrad.nieduszynski@earhlam.ac.uk"
 %}
+
+Our privacy notice is available [here](DNA_Replication_Group_Privacy_Notice_v3.pdf).
