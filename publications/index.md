@@ -13,7 +13,7 @@ Publications from our group.
 
 ## Highlighted
 
-{% include citation.html lookup="Most human DNA replication initiation is dispersed throughout the genome with only a minority within previously identified initiation zones" style="rich" %}
+{% include citation.html lookup="doi:10.1186/s13059-025-03591-w" style="rich" %}
 
 {% include citation.html lookup="Design, construction, and functional characterization of a tRNA neochromosome in yeast" style="rich" %}
 
