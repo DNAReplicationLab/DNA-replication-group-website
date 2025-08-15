@@ -21,6 +21,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: Isabel, pombe DNAscent, 2025
+  image: images/Isabel_manuscript_overview.jpg
   tags:
   - fission yeast
   - DNAscent
