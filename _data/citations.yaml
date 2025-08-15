@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.07.16.665067
+  title: Single-molecule sequencing maps replication dynamics across the fission yeast
+    genome, including centromeres
+  authors:
+  - "Isabel D\xEDez-Santos"
+  - Sathish Thiyagarajan
+  - Anna M. Rogers
+  - Adam T. Watson
+  - Antony M. Carr
+  - Conrad A. Nieduszynski
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-07-18'
+  link: https://doi.org/g9w5s4
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.04.28.591325
   title: Most human DNA replication initiation is dispersed throughout the genome
     with only a minority within previously identified initiation zones
