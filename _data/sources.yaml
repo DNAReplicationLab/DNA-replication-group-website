@@ -3,6 +3,11 @@
   tags:
    - budding yeast
 
+- id: doi:10.1101/2025.07.16.665067
+  my_comment: Isabel, pombe DNAscent, 2025
+  tags:
+   - fission yeast
+
 - id: doi:10.1186/s13059-025-03591-w
   my_comment: Human DNAscent, 2025
   description: Discovering where DNA replication initiates in human cells is crucial for understanding how cells copy their genetic information. Our study explores where and how often DNA replication begins across the human genome. To achieve this, we employed a technique using in vivo BrdU incorporation followed by detection by single-molecule nanopore sequencing combined. We tested various BrdU concentrations on cultured human cells, sequenced the resulting DNA, and developed a computational method to identify replication initiation events from the sequencing data. We discovered that a large proportion of DNA replication begins outside known initiation zones, demonstrating a dispersed initiation pattern across the genome. We concluded that while a subset of initiation events occurs in focused zones and is influenced by factors such as transcription, the majority are dispersed and not associated with specific sequence features or epigenetic marks. This understanding refines the current model of how DNA replication is orchestrated within human cells and could inform studies on genome stability and the onset of diseases like cancer.
