@@ -1,3 +1,21 @@
+#- id: doi:10.1101/2025.08.14.670160
+#  my_comment: Sathish, replication pausing landscape, 2025
+#  tags:
+#   - budding yeast
+
+- id: doi:10.1007/978-3-319-24696-3_6
+  my_comment: Book chapter, 2016
+   
+- id: doi:10.1093/nar/gkz094
+  my_comment: paper with Nigel, 2019
+  tags:
+   - mathematical modelling
+
+- id: doi:10.1101/2025.07.16.665067
+  my_comment: Isabel, pombe DNAscent, 2025
+  tags:
+   - fission yeast
+
 - id: doi:10.1186/s13059-025-03591-w
   my_comment: Human DNAscent, 2025
   description: Discovering where DNA replication initiates in human cells is crucial for understanding how cells copy their genetic information. Our study explores where and how often DNA replication begins across the human genome. To achieve this, we employed a technique using in vivo BrdU incorporation followed by detection by single-molecule nanopore sequencing combined. We tested various BrdU concentrations on cultured human cells, sequenced the resulting DNA, and developed a computational method to identify replication initiation events from the sequencing data. We discovered that a large proportion of DNA replication begins outside known initiation zones, demonstrating a dispersed initiation pattern across the genome. We concluded that while a subset of initiation events occurs in focused zones and is influenced by factors such as transcription, the majority are dispersed and not associated with specific sequence features or epigenetic marks. This understanding refines the current model of how DNA replication is orchestrated within human cells and could inform studies on genome stability and the onset of diseases like cancer.
@@ -154,7 +172,7 @@
 
 - id: doi:10.1038/nsmb.2962
   my_comment: Pu-seq paper with Tony, 2015
-  description: This collaborative study reveals that polymerase epsilon is responsible for leading strand synthesis, with polymerase delta undertaking lagging strand synthesis. Our polymerase usage data directly maps replication origin location, quantifies origin efficiency, reveals that replication termination events are dispersed across large termination zones and indirectly estimates replication timing.<br>With associated [News & Views](https://www.nature.com/articles/nsmb.2981) by Sue Jinks-Robertson & Hannah L Klein.
+  description: This collaborative study reveals that polymerase epsilon is responsible for leading strand synthesis, with polymerase delta undertaking lagging strand synthesis. Our polymerase usage data directly maps replication origin location, quantifies origin efficiency, reveals that replication termination events are dispersed across large termination zones and indirectly estimates replication timing.<br>With associated [News & Views](https://www..com/articles/nsmb.2981) by Sue Jinks-Robertson & Hannah L Klein.
   image: images/replication-fork-polymerases.png
   tags:
   - fission yeast
@@ -170,7 +188,7 @@
 
 - id: doi:10.1016/j.celrep.2013.10.014
   my_comment: MH and RR modelling paper, 2013
-  description: In this study we used a combination of high-resolution, genomic-wide DNA replication data, mathematical modelling and single cell experiments to reveal the stochastic nature of replication initiation and termination. We find that the homogeneous picture implied by ensemble datasets masks biologically significant cell-to-cell variation in genome replication.
+  description: In this study we used a combination of high-resolution, genomic-wide DNA replication data, mathematical modelling and single cell experiments to reveal the stochastic  of replication initiation and termination. We find that the homogeneous picture implied by ensemble datasets masks biologically significant cell-to-cell variation in genome replication.
   image: images/24210825.jpg
   tags:
   - mathematical modelling
@@ -234,6 +252,9 @@
    - comparative genomics
    - budding yeast
 
+- id: doi:10.1371/journal.ppat.1002554
+  my_comment: Rita collab, 2012
+   
 - id: doi:10.1093/nar/gkr1091
   my_comment: OriDB update paper, 2011
   image: images/oridb_logo.png
@@ -262,6 +283,9 @@
   description: This work is [H1 recommended](https://connect.h1.co/pubmed/18573888).
   tags:
    - budding yeast
+
+- id: doi:10.1007/978-1-60327-815-7_16
+  my_comment: methods book chapter, 2009
 
 - id: doi:10.1093/nar/gkl758
   my_comment: original OriDB paper
