@@ -1,6 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1101/2025.08.14.670160
+  title: Single-molecule landscape of DNA replication pausing
+  authors:
+  - Sathish Thiyagarajan
+  - Anna M. Rogers
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-08-14'
+  link: https://doi.org/g9x4bj
   orcid: 0000-0003-2001-076X
   plugin: orcid.py
   file: orcid.yaml
