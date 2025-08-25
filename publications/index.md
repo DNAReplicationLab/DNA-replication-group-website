@@ -13,11 +13,11 @@ Publications from our group.
 
 ## Highlighted
 
+{% include citation.html lookup="Single-molecule landscape of DNA replication pausing" style="rich" %}
+
 {% include citation.html lookup="doi:10.1186/s13059-025-03591-w" style="rich" %}
 
 {% include citation.html lookup="Design, construction, and functional characterization of a tRNA neochromosome in yeast" style="rich" %}
-
-{% include citation.html lookup="Capturing the dynamics of genome replication on individual ultra-long nanopore sequence reads" style="rich" %}
 
 {% include section.html %}
 
