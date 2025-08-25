@@ -1,9 +1,9 @@
-#- id: doi:10.1101/2025.08.14.670160
-#  my_comment: Sathish, replication pausing landscape, 2025
-#  publisher: bioRxiv
-#  image: images/Sathish_graphical_overview.png
-#  tags:
-#   - budding yeast
+- id: doi:10.1101/2025.08.14.670160
+  my_comment: Sathish, replication pausing landscape, 2025
+  publisher: bioRxiv
+  image: images/Sathish_graphical_overview.png
+  tags:
+   - budding yeast
 
 - id: doi:10.1007/978-3-319-24696-3_6
   my_comment: Book chapter, 2016
