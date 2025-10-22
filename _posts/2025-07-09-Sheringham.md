@@ -8,3 +8,10 @@ tags:
 <!-- excerpt start -->
 A whole group day trip to Sheringham to welcome Dasha.
 <!-- excerpt end -->
+
+{%
+  include figure.html
+  image="images/Sheringham_2025_group.jpg"
+  caption="Group picture"
+  width="600px"
+%}
