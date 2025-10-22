@@ -1,6 +1,6 @@
 ---
 title: Group day out to Sheringham
-author: conrad
+author: CC
 last_modified_at: ""
 tags:
   - Group social
