@@ -1,6 +1,6 @@
 ---
 title: Burns Night at Angela's
-author: conrad
+author: AM
 last_modified_at: ""
 tags:
   - Group social
