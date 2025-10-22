@@ -1,6 +1,6 @@
 ---
 title: Nanopore modification detection course, 2025
-author: conrad
+author: ST
 last_modified_at: ""
 tags:
   - Training
