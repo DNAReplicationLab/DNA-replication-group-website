@@ -4,6 +4,7 @@ author: conrad
 last_modified_at: ""
 tags:
   - New paper
+  - Science
 ---
 <!-- excerpt start -->
 Jamie and Rose's paper, discovering the sites of DNA replication initiation across the human genome on single molecules, is published in [Genome Biology](https://doi.org/g9j53v).
