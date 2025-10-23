@@ -1306,7 +1306,7 @@
     for understanding how cells copy their genetic information. Our study explores
     where and how often DNA replication begins across the human genome. To achieve
     this, we employed a technique using in vivo BrdU incorporation followed by detection
-    by single-molecule nanopore sequencing combined. We tested various BrdU concentrations
+    by single-molecule nanopore sequencing. We tested various BrdU concentrations
     on cultured human cells, sequenced the resulting DNA, and developed a computational
     method to identify replication initiation events from the sequencing data. We
     discovered that a large proportion of DNA replication begins outside known initiation
