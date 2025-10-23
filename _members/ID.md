@@ -1,5 +1,5 @@
 ---
-name: Isabel Diez Santos
+name: Isabel Diez-Santos
 image: images/isobel-diez-web-profile-2.jpg
 role: postdoc
 group: alum
