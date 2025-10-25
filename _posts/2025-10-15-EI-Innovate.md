@@ -1,8 +1,6 @@
 ---
 title: Earlham Institute Innovate event 2025
-author: 
-  - conrad
-  - CC
+author: conrad
 last_modified_at: ""
 tags:
   - Science
