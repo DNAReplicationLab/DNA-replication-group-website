@@ -1,5 +1,5 @@
 ---
-title: Group barbecue and the star of Nerea's visit
+title: Group barbecue and the start of Nerea's visit
 author: conrad
 last_modified_at: ""
 tags:
