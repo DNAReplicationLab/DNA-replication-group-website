@@ -17,11 +17,11 @@ a day!
   include figure.html
   image="images/Scavenger_1.jpeg"
   caption="Group picture"
-  width="400px"
+  width="600px"
 %}
 {%
   include figure.html
   image="images/Scavenger_2.jpeg"
   caption="Group picture"
-  width="400px"
+  width="350px"
 %}
