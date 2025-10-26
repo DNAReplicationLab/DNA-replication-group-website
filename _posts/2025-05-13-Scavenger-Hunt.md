@@ -8,3 +8,7 @@ tags:
 <!-- excerpt start -->
 A Scavenger Hunt around Norwich.
 <!-- excerpt end -->
+Our team set out to explore the city with a brilliant scavenger hunt! We wandered through the 
+historic Norwich lanes, discovered fun facts along the way, and wrapped up the day with some 
+well-earned refreshments at BrewDog. A great mix of sunshine, laughter, and team spirit — what 
+a day!
