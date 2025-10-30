@@ -15,13 +15,13 @@ attempted a team-building spaghetti fortress exercise (which may or may not have
 Spanish card games to keep us entertained on the train home.
 {%
   include figure.html
-  image="images/Sheringham_2025_group.jpg"
+  image="images/Sheringham_2025_group.png"
   caption="Group picture - Case closed!"
   width="600px"
 %}
 {%
   include figure.html
-  image="images/pasta_tower.jpg"
+  image="images/pasta_tower.png"
   caption="The Leaning Tower of Pasta"
   width="400px"
 %}
