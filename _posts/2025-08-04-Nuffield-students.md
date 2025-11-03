@@ -18,4 +18,4 @@ Angela and Anna hosted three young people through the Nuffield placements to lea
   width="600px"
 %}
 
-For more information about training opportunities see [Earlham Insititute Training](https://www.earlham.ac.uk/internships).
+For more information about training opportunities see [Earlham Institute Training](https://www.earlham.ac.uk/internships).
