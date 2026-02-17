@@ -180,8 +180,9 @@
   my_comment: paper with Wolfe & Butler on Candida parapsilosis, 2022
   image: https://journals.asm.org/cms/10.1128/mbio.01777-22/asset/5ff8ad2e-f350-4ebb-9812-3d3e1ff24e5a/assets/images/medium/mbio.01777-22-f003.gif
 - id: doi:10.1101/2021.12.16.473093
-  title: Resistance to miltefosine results from amplification of the <i>RTA3</i> floppase
-    or inactivation of flippases in <i>Candida parapsilosis</i>
+  title: "Resistance to miltefosine results from amplification of the\n          \
+    \        <i>RTA3</i>\n                  floppase or inactivation of flippases\
+    \ in\n                  <i>Candida parapsilosis</i>"
   authors:
   - Sean A. Bergin
   - Fang Zhao
@@ -195,7 +196,7 @@
   - Jillian Scully
   - Kenneth H. Wolfe
   - Geraldine Butler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-12-17'
   link: https://doi.org/g9j8c5
   orcid: 0000-0003-2001-076X
@@ -506,7 +507,7 @@
   - Michelle Hawkins
   - Conrad A. Nieduszynski
   - Renata Retkute
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-01-01'
   link: https://doi.org/gkwnfp
   orcid: 0000-0003-2001-076X
@@ -1119,9 +1120,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MCB.00206-08
-  title: Analysis of Chromosome III Replicators Reveals an Unusual Structure for the
-    <i>ARS318</i> Silencer Origin and a Conserved WTW Sequence within the Origin Recognition
-    Complex Binding Site
+  title: "Analysis of Chromosome III Replicators Reveals an Unusual Structure for\
+    \ the\n                    <i>ARS318</i>\n                    Silencer Origin\
+    \ and a Conserved WTW Sequence within the Origin Recognition Complex Binding Site"
   authors:
   - FuJung Chang
   - James F. Theis
